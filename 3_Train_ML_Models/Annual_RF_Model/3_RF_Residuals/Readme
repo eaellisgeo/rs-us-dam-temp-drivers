@@ -1,1 +1,3 @@
+This code uses the outputs of the Annual ML model to create predicted values, calculate the residuals/standardized residuals, and plot the results
 
+To run this code: Folder 1_RF_Model_Tuning and 2_RF_Model_Runs must be completed. 
