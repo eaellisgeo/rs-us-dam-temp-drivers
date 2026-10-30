@@ -1,6 +1,9 @@
 ___________________________________________________________________________________________________________________________________________________________________
+**DISSERTATION VERSION -- This repo reflects the work published in Emily's PhD ETD at Virginia Tech.** 
+Further updates and changes to this project will be posted to a new repo
+___________________________________________________________________________________________________________________________________________________________________
 
-This code was developed for "Drivers of dam-induced thermal changes in rivers" (Ellis et al.). 
+This code was developed for Dissertation Chapter: "Drivers of dam-induced thermal changes in rivers" (Ellis et al.). 
 
 The goal of this study is to examine the primary drivers of dam-induced river temperature changes and describe how the primary drivers vary seasonally. 
 This is completed using conditional inference random forest models and variable importance assessments. 
